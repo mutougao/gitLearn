@@ -1,5 +1,0 @@
-hello world
-hello git
-hello java
-
-hello kotlin
